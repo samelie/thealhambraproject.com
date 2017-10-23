@@ -5,6 +5,5 @@ node_modules
 *.obj
 *.mp4
 *.png
-assets
 npm-debug.log.*
 www-assets
